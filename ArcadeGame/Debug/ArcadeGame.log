@@ -1,0 +1,33 @@
+﻿  WinTexture.cpp
+  WinCanvas.cpp
+  Scene.cpp
+c:\users\kosas\desktop\uni\trimester 2\sit153 - introduction to game programming\assessments\aeeseement 2\sit153-arcadegamecode-2016\arcadegame\source\scene.cpp(154): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\kosas\desktop\uni\trimester 2\sit153 - introduction to game programming\assessments\aeeseement 2\sit153-arcadegamecode-2016\arcadegame\source\scene.cpp(157): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Main.cpp
+c:\users\kosas\desktop\uni\trimester 2\sit153 - introduction to game programming\assessments\aeeseement 2\sit153-arcadegamecode-2016\arcadegame\source\main.cpp(421): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kosas\desktop\uni\trimester 2\sit153 - introduction to game programming\assessments\aeeseement 2\sit153-arcadegamecode-2016\arcadegame\source\main.cpp(425): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(901): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<double,int,TEXTURE_PTR&,math::affine::_point_2<float>>(double &&,int &&,TEXTURE_PTR &,math::affine::_point_2<float> &&)' being compiled
+          with
+          [
+              _Ty=TexturedAnimatedSprite
+          ]
+  c:\program files (x86)\microsoft visual studio 14.0\vc\include\memory(971): note: see reference to function template instantiation 'std::_Ref_count_obj<_Ty>::_Ref_count_obj<double,int,TEXTURE_PTR&,math::affine::_point_2<float>>(double &&,int &&,TEXTURE_PTR &,math::affine::_point_2<float> &&)' being compiled
+          with
+          [
+              _Ty=TexturedAnimatedSprite
+          ]
+  c:\users\kosas\desktop\uni\trimester 2\sit153 - introduction to game programming\assessments\aeeseement 2\sit153-arcadegamecode-2016\arcadegame\source\main.cpp(442): note: see reference to function template instantiation 'std::shared_ptr<TexturedAnimatedSprite> std::make_shared<TexturedAnimatedSprite,double,int,TEXTURE_PTR&,math::affine::_point_2<float>>(double &&,int &&,TEXTURE_PTR &,math::affine::_point_2<float> &&)' being compiled
+  InputState.cpp
+  BaseClasses.cpp
+  DerivedClasses.cpp
+c:\users\kosas\desktop\uni\trimester 2\sit153 - introduction to game programming\assessments\aeeseement 2\sit153-arcadegamecode-2016\arcadegame\source\derivedclasses.cpp(158): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\kosas\desktop\uni\trimester 2\sit153 - introduction to game programming\assessments\aeeseement 2\sit153-arcadegamecode-2016\arcadegame\source\derivedclasses.cpp(161): warning C4305: 'argument': truncation from 'double' to 'const float'
+c:\users\kosas\desktop\uni\trimester 2\sit153 - introduction to game programming\assessments\aeeseement 2\sit153-arcadegamecode-2016\arcadegame\source\derivedclasses.cpp(170): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kosas\desktop\uni\trimester 2\sit153 - introduction to game programming\assessments\aeeseement 2\sit153-arcadegamecode-2016\arcadegame\source\derivedclasses.cpp(288): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\kosas\desktop\uni\trimester 2\sit153 - introduction to game programming\assessments\aeeseement 2\sit153-arcadegamecode-2016\arcadegame\source\derivedclasses.cpp(450): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kosas\desktop\uni\trimester 2\sit153 - introduction to game programming\assessments\aeeseement 2\sit153-arcadegamecode-2016\arcadegame\source\derivedclasses.cpp(451): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\kosas\desktop\uni\trimester 2\sit153 - introduction to game programming\assessments\aeeseement 2\sit153-arcadegamecode-2016\arcadegame\source\derivedclasses.cpp(455): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  ArcadeGame.vcxproj -> C:\Users\kosas\Desktop\Uni\Trimester 2\SIT153 - Introduction To Game Programming\Assessments\Aeeseement 2\SIT153-ArcadeGameCode-2016\Debug\ArcadeGame.exe
+  ArcadeGame.vcxproj -> C:\Users\kosas\Desktop\Uni\Trimester 2\SIT153 - Introduction To Game Programming\Assessments\Aeeseement 2\SIT153-ArcadeGameCode-2016\Debug\ArcadeGame.pdb (Full PDB)
